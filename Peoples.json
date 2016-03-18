@@ -1,0 +1,12 @@
+{
+  "peoples" : [
+    { "first_name" : "Лихачев",
+      "last_name"  : "Дмитрий",
+      "pol"        : "M",
+      "b_data"     : "15.04.1987"},
+	{ "first_name" : "Алексеев",
+      "last_name"  : "Иван",
+      "pol"        : "M",
+      "b_data"     : "12.07.1998"}
+  ]
+}
